@@ -10,27 +10,13 @@ If you do not wish to be dependent on the website, the app.R file may also be ru
 
 Please contact [Nick Riches](www.gmail.com) for feedback, or support.
 
-## Entering data
+# Instructional videos
 
-<video src='https://www.youtube.com/watch?v=CipY3y3SFq0' width=180/>
+Please go to the following links for instructional videos
 
-## Word searching
-
-<video src='https://www.youtube.com/watch?v=k87WJ-LoWdM' width=180/>
-
-## Obtaining metrics
-
-<video src='https://www.youtube.com/watch?v=RBbU_FpvqTA' width=180/>
-
-## Plotting norms
-
-<video src='https://www.youtube.com/watch?v=AL_Wb_0vt20' width=180/>
-
-## Zooming in and out of norms
-
-<video src='https://www.youtube.com/watch?v=lAi2z2p5Rd8' width=180/>
-
-## Plot speaker
-
-<video src='https://www.youtube.com/watch?v=2MFiNcNTWVs' width=180/>
-
+- [Entering data](https://www.youtube.com/watch?v=CipY3y3SFq0)
+- [Word searching](https://www.youtube.com/watch?v=k87WJ-LoWdM)
+- [Obtaining metrics](https://www.youtube.com/watch?v=RBbU_FpvqTA)
+- [Plotting norms](https://www.youtube.com/watch?v=AL_Wb_0vt20)
+- [Zooming in and out of norms](https://www.youtube.com/watch?v=lAi2z2p5Rd8)
+- [Plot speaker](https://www.youtube.com/watch?v=2MFiNcNTWVs)
